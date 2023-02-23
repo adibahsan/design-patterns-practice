@@ -1,5 +1,6 @@
 package com.adibahsan;
 
+import com.adibahsan.DesignPatterns.Prototype.PrototypeRunner;
 import com.adibahsan.SOLID.LiskovSubstitution.LiskovSubstitutionRunner;
 import com.adibahsan.SOLID.OpenClose.OpenCloseRunner;
 import com.adibahsan.SOLID.SingleResponsiblity.SingleResponsibilityRunner;
@@ -10,6 +11,7 @@ public class Main {
 //            SingleResponsibilityRunner.SingleResponsibilityRunner();
 //            OpenCloseRunner.openCloseRunner();
 //            LiskovSubstitutionRunner.liskovSubRunner();
+            PrototypeRunner.protoTypeRunner();
 
     }
 }
