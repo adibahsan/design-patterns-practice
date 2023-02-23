@@ -6,5 +6,8 @@ public class PrototypeRunner {
         Circle circle = new Circle(10);
         ContextMenu contextMenu = new ContextMenu();
         contextMenu.duplicate(circle);
+
+        Square square = new Square();
+        contextMenu.duplicate(square);
     }
 }
