@@ -9,7 +9,7 @@ public class Main {
             System.out.println("Hello Design Patterns");
 //            SingleResponsibilityRunner.SingleResponsibilityRunner();
 //            OpenCloseRunner.openCloseRunner();
-            LiskovSubstitutionRunner.liskovSubRunner();
+//            LiskovSubstitutionRunner.liskovSubRunner();
 
     }
 }
